@@ -214,6 +214,10 @@ A secure application should enforce authorization **server-side and consistently
 
 ## ✅ Lab Status
 
+## Evidence
+
+![Burp Suite URL-Based Access Control](burp_suite_url_based_access_control_solved.png)
+
 * [x] Identified admin role-change request
 * [x] Tested with non-admin session
 * [x] Confirmed `POST` was protected
