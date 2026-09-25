@@ -183,6 +183,11 @@ Multi-step
 
 ## 🎯 Final Takeaway
 
+## Evidence
+
+![Lab Solved](multi-step-process-access-control.png)
+
+
 The important finding was **not simply `confirmed=true`**.
 
 `confirmed=true` only triggered the final action.
