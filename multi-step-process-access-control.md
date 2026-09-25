@@ -190,3 +190,7 @@ The important finding was **not simply `confirmed=true`**.
 The actual vulnerability was:
 
 **The final action did not verify whether the current user was authorized to perform it.**
+### Multi-step Process with No Access Control on One Step
+
+**Report:** [multi-step-process-access-control.md](multi-step-process-access-control.md)
+
