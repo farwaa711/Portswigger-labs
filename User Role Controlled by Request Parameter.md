@@ -168,7 +168,7 @@ A secure application should determine the user's role on the server side using t
 
 ## 🎯 Evidence
 
-Add your Burp screenshot here:
+
 
 ```md
 ![Admin Cookie Exploitation](method-based-access-control-solved.png)
