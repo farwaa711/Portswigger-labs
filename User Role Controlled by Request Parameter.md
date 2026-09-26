@@ -171,7 +171,7 @@ A secure application should determine the user's role on the server side using t
 Add your Burp screenshot here:
 
 ```md
-![Admin Cookie Exploitation](user-role-controlled-by-request-parameter.png)
+![Admin Cookie Exploitation](method-based-access-control-solved.png)
 ```
 
 ---
